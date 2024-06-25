@@ -6,7 +6,7 @@ This repository contains a Power BI project that visualizes sales data, providin
 
 The Sales Data Dashboard offers a comprehensive view of sales performance through interactive and dynamic visualizations. It helps stakeholders understand key metrics and trends in sales data.
 
-### Dashboard Link : https://drive.google.com/drive/folders/1BNCCkp7qieeeVI5zf69MkH0SoaSKdfhh?usp=drive_link
+### Dashboard Link : [https://drive.google.com/drive/folders/1BNCCkp7qieeeVI5zf69MkH0SoaSKdfhh?usp=drive_link](https://drive.google.com/drive/folders/1BNCCkp7qieeeVI5zf69MkH0SoaSKdfhh?usp=drive_link)
 
 ### Key Metrics
 
