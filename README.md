@@ -44,6 +44,7 @@ The Sales Data Dashboard offers a comprehensive view of sales performance throug
 - **City Filter:** Allows filtering data by different cities.
 
 # Snapshot of Dashboard (Power BI Service)
-![Screenshot 2024-06-25 154938](https://github.com/Indranilsdas9/Test/assets/172954123/4b22a28f-4b22-4e4d-8f3f-1b2c772f56ce)
+![Screenshot 2024-06-25 190808](https://github.com/Indranilsdas9/Sales-Data-PowerBi-Project/assets/172954123/62135ece-e664-4365-9be9-efdc6e8885f7)
+
 
 
